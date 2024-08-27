@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gddiocadiz@up.edu.ph**
 
-- 📄 Know about my experiences **C, C++, and SFML Project Development, Programming in Assembly, Java with the use of JavaFX**
+- 📄 Know about my experiences **C, C++, and SFML Project Development, Programming in Assembly, Java with the use of JavaFX, App development using Flutter and Dart, Use of SQL in MariaDB**
 
 - ⚡ Fun fact **Basketball Player, Sophomore Transferee from UP Cebu to UP Los Baños**
 
