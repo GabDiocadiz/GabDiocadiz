@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gddiocadiz@up.edu.ph**
 
-- 📄 Know about my experiences [Automation using Lua, C++ and SFML Project Development](Automation using Lua, C++ and SFML Project Development)
+- 📄 Know about my experiences **C, C++, and SFML Project Development, Programming in Assembly, Java with the use of JavaFX**
 
 - ⚡ Fun fact **Basketball Player, Sophomore Transferee from UP Cebu to UP Los Baños**
 
